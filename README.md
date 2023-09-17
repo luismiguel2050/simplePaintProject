@@ -1,9 +1,9 @@
 # simplePaintProject
-Simple paint project
-This project was made while attending <Academia de Código_> bootcamp. Clearly not using code best practices.
-But it was a fun project! 
+Simple paint project\
+This project was made while attending <Academia de Código_> bootcamp. Clearly not using code best practices.\
+But it was a fun project! \
 
-Made With Java
+Made With Java\
 Uses SimpleGraphics library.
 
 ## how to use
