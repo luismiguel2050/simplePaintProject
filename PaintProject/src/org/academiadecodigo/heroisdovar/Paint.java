@@ -253,11 +253,11 @@ public class Paint {
                         growThatShit(Grid.CELLSIZE, Grid.CELLSIZE);
                     cursorSize = cursor.getHeight();
                     break;
-               /* case KeyboardEvent.KEY_W:
+               case KeyboardEvent.KEY_W:
                     if(cursor.getHeight()>Grid.CELLSIZE) {
                         growThatShit(-Grid.CELLSIZE, -Grid.CELLSIZE);
                         cursorSize = cursor.getHeight();
-                    }*/
+                    }
                 //break;
                 case KeyboardEvent.KEY_1:
                     color = Color.BLACK;
